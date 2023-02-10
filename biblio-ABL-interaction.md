@@ -17,7 +17,7 @@ The focus of these studies is on the response of the ABL to various sea ice boun
     * https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953
 </details>
 
-* <details>
+<details>
 <summary><strong>Wenta, M., & Herman, A. (2018).</strong>- The influence of the spatial distribution of leads and ice floes on the atmospheric boundary layer over fragmented sea ice. <it>(Click to read more)</it>.</summary>
 
     * Investigate the response of the atmospheric boundary layer (ABL) to subgrid-scale variations of sea ice properties and fracturing analyze three-dimensional air circulation within the ABL over fragmented sea ice. A series of idealized high-resolution simulations with Polar WRF is performed for several spatial distributions of ice floes and leads for two values of sea ice concentration (0.5 and 0.9) and several ambient wind speed profiles. Suggests the need for developing suitable parametrizations of ABL effects related to subgrid scale sea ice features for these models.
@@ -26,10 +26,13 @@ The focus of these studies is on the response of the ABL to various sea ice boun
 
 <details>
 <summary><strong> Spall M. (2019).</strong>- Dynamics and Thermodynamics of the Mean Transpolar Drift and Ice Thickness in the Arctic Ocean. <i>(Click to read more)</i>.</summary>
+<div>
 
     * A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed. Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere. The basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space.
     * Analytical work compared to an idealised MITgcm simulation (EVP rheology) forced with bulks.
     * https://doi.org/10.1175/JCLI-D-19-0252.1
+
+<div>
 </details>
 
 <details>
