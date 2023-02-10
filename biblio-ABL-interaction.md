@@ -16,8 +16,8 @@ The focus of these studies is on the response of the ABL to various sea ice boun
 <summary><strong>Michaelis, Lupkes et al 2022.</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations.</summary>
 <!--All you need is a blank line-->
 
-    + METRAS atmospheric model.
-    + [[Link to Paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953)
+    * METRAS atmospheric model.
+    * [[Link to Paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953)
 </details>
 
 
