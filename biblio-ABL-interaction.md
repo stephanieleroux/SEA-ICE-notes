@@ -13,15 +13,15 @@ The focus of these studies is on the response of the ABL to various sea ice boun
 <details>
 <summary><strong>Michaelis, Lupkes et al (2022).</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. <i>(Click to read more)</i>.</summary>
 
-    * METRAS atmos. model.
-    * https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953
+* METRAS atmos. model.
+* https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953
 </details>
 
 <details>
 <summary><strong>Wenta, M., & Herman, A. (2018).</strong>- The influence of the spatial distribution of leads and ice floes on the atmospheric boundary layer over fragmented sea ice. <it>(Click to read more)</it>.</summary>
 
-    * Investigate the response of the atmospheric boundary layer (ABL) to subgrid-scale variations of sea ice properties and fracturing analyze three-dimensional air circulation within the ABL over fragmented sea ice. A series of idealized high-resolution simulations with Polar WRF is performed for several spatial distributions of ice floes and leads for two values of sea ice concentration (0.5 and 0.9) and several ambient wind speed profiles. Suggests the need for developing suitable parametrizations of ABL effects related to subgrid scale sea ice features for these models.
-    * https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4961E8E20BC30618A7849378985EA7FA/S0260305518000150a.pdf/
+* Investigate the response of the atmospheric boundary layer (ABL) to subgrid-scale variations of sea ice properties and fracturing analyze three-dimensional air circulation within the ABL over fragmented sea ice. A series of idealized high-resolution simulations with Polar WRF is performed for several spatial distributions of ice floes and leads for two values of sea ice concentration (0.5 and 0.9) and several ambient wind speed profiles. Suggests the need for developing suitable parametrizations of ABL effects related to subgrid scale sea ice features for these models.
+* https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4961E8E20BC30618A7849378985EA7FA/S0260305518000150a.pdf/
 </details>
 
 <details>
