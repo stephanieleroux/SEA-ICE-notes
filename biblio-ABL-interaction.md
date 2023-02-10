@@ -4,21 +4,20 @@ Last update: 2023-02-08
 **Bibliography**
 
 List of references about sea ice - Atmospheric Boundary Layer coupling. I sorted out the references in the 5 categories below:
-[TOC]
+
 
 ---
 
-# 1. Atmospheric models (often LES) with prescribed sea ice boundary conditions. 
+## 1. Atmospheric models (often LES) with prescribed sea ice boundary conditions. 
 
 The focus of these studies is on the response of the ABL to various sea ice boundary conditions (nothing i could find about the feedback effects on sea ice).
-
-* **Michaelis, Lupkes et al 2022**    
-<details>
-  <summary><strong> Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations</strong></summary>
-- https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953. 
-- METRAS atmospheric model.
   
+* **Michaelis, Lupkes et al 2022** - Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. [[Link to Paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953).
+<details>
+  <summary>More (...)</summary>
+	 METRAS atmospheric model.
 </details>
+	  
 
 * **Wenta, M., & Herman, A. (2018).**
 <details>
