@@ -60,7 +60,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 <details>
 <summary><strong>Pithan  et al (2016)</strong>- Select strengths and biases of models in representing the Arctic winter boundary layer over sea ice: the Larcform 1 single column model intercomparison <i>(Click to read more)</i>.</summary>
 
-* _ ABL 1D single column in Lagrangian form. Prescribed sea ice conditions._
+* _ABL 1D single column in Lagrangian form. Prescribed sea ice conditions._
 * https://doi.org/10.1002/2016MS000630
 </details>
 
