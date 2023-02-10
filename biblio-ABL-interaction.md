@@ -24,12 +24,12 @@ some text
    </details>
 </details>
 
-<details>
+* <details>
 <summary><strong>Michaelis, Lupkes et al 2022.</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations.</summary>
-<!--All you need is a blank line-->
 
-    * METRAS atmospheric model.
-    * [[Link to Paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953)
+    some more text
+    * Essai 1
+    * Essai 2
 </details>
 
 
