@@ -30,7 +30,7 @@ The focus of these studies is on the response of the ABL to various sea ice boun
 <details>
 <summary><strong> Spall M. (2019).</strong>- Dynamics and Thermodynamics of the Mean Transpolar Drift and Ice Thickness in the Arctic Ocean. <i>(Click to read more)</i>.</summary>
 
-*_ A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed. Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere. The basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space._
+* _A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed. Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere. The basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space._
 * _Analytical work compared to an idealised MITgcm simulation (EVP rheology) forced with bulks.__
 * https://doi.org/10.1175/JCLI-D-19-0252.1
 </details>
@@ -58,8 +58,8 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 <details>
 <summary><strong>Pithan  et al (2016)</strong>- Select strengths and biases of models in representing the Arctic winter boundary layer over sea ice: the Larcform 1 single column model intercomparison <i>(Click to read more)</i>.</summary>
 
-*_ ABL 1D single column in Lagrangian form. Prescribed sea ice conditions._
-* [link](https://doi.org/10.1002/2016MS000630)
+* _ ABL 1D single column in Lagrangian form. Prescribed sea ice conditions._
+* https://doi.org/10.1002/2016MS000630
 </details>
 
 <!-- -------------- Paper ------------------ -->
@@ -72,10 +72,10 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 
 <!-- -------------- Paper ------------------ -->
 <details>
-<summary><strong>Renfrew et al (2019)</strong>- Title <i>(Click to read more)</i>.</summary>
+<summary><strong>Bromwich et al (2009)</strong>- Development and testing of Polar Weather Research and Forecasting model: 2. Arctic Ocean <i>(Click to read more)</i>.</summary>
 
-* _comment_
-* link
+* _Polar WRF: 25-km resolution_
+* https://doi.org/10.1029/2008JD010300
 </details>
 
 <!-- -------------- Paper ------------------ -->
@@ -87,56 +87,91 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 </details>
 
 
-* **Bromwich 2009 Development and testing of Polar Weather Research and Forecasting model: 2. Arctic Ocean** https://doi.org/10.1029/2008JD010300
-Polar WRF: 25-km resolution
+
 
 * **Moeng et al 2007   Examining Two-Way Grid Nesting for Large Eddy Simulation of the PBL Using the WRF Model**
 https://journals.ametsoc.org/view/journals/mwre/135/6/mwr3406.1.xml
 *Two-way nesting for large eddy simulation (LES) of PBL turbulence I*
 *A pair of LES-within-LES experiments are performed where a finer-grid LES covering a smaller horizontal domain is nested inside a coarser-grid LES covering a larger horizontal domain. Free-convection and pure shear-driven PBLs. The free-convection case has zero mean wind and the only driving force for turbulence is uniform surface heating.*
 
-* **Zulauf 2002 Two-dimensional cloud-resolving modeling of the atmospheric effects of Arctic leads based upon midwinter conditions at the Surface Heat Budget of the Arctic Ocean ice camp**https://doi.org/10.1029/2002JD002643 Cloud-resolving model + SHEBA-derived fluxes. 
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Zulauf et al (2002)</strong>- Two-dimensional cloud-resolving modeling of the atmospheric effects of Arctic leads based upon midwinter conditions at the Surface Heat Budget of the Arctic Ocean ice camp <i>(Click to read more)</i>.</summary>
 
-* **Birnbaum & Lüpkes 2002 A new parameterization of surface drag in the marginal sea ice zone** https://a.tellusjournals.se/article/10.3402/tellusa.v54i1.12121/
-METRAS ABL model and prescribed surface conditions
+* _Cloud-resolving model + SHEBA-derived fluxes._ 
+* https://doi.org/10.1029/2002JD002643
+</details>
+
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Birnbaum & Lüpkes (2002)</strong>- A new parameterization of surface drag in the marginal sea ice zone* <i>(Click to read more)</i>.</summary>
+
+* _METRAS ABL model and prescribed surface conditions_
+* https://a.tellusjournals.se/article/10.3402/tellusa.v54i1.12121/
+</details>
 
 
 ---
-# 2. Coupled systems (seaice-ocean-atmoshpere)
-* **Ren et al 2021:** **A fully coupled Arctic sea-ice–ocean–atmosphere model (ArcIOAM v1.0) based on C-Coupler2: model description**
-**and preliminary results** : https://doi.org/10.5194/gmd-14-1101-2021
-Polar WRF coupled to MITGCM (VP rheology) at 18km.
-*Goal: provide reliable Arctic sea ice prediction on SEASONAL timescales.  Compare a MITGCM forced config with a coupled config with Polar WRF. “The two-way coupling has better performance in terms of sea ice extent, concen- tration, thickness and sea surface temperature (SST), especially in summer. This result indicates that sea-ice–ocean– atmosphere interaction plays a crucial role in controlling Arctic summertime sea ice distribution. “*
+## 2. Coupled systems (seaice-ocean-atmoshpere)
 
-* **2022:  Day et all Benefits and challenges of dynamic sea ice for weather forecasts** https://wcd.copernicus.org/articles/3/713/2022/
-	- *ECMWF IFS atmospheric forecast experiments. one in which dynamic cou-*
-*pling with sea ice concentration and ocean is switched on*
-*(coup-SSTSIC), one atmosphere-only where sea ice concen-*
-*tration and SST anomalies are persisted from the initial time*
-*(pers-SSTSIC), and another atmosphere-only with updated*
-*observed sea ice concentration and SSTs (obs-SSTSIC).*
-	- *For the coupled forecasts (coup-SSTSIC), the IFS atmo-*
-*sphere is coupled to NEMO (Madec, 2008) model version*
-*3.4.1 and LIM2, using the ORCA025 horizontal grid (with*
-*a resolution of approximately ∼ 10 km in the Arctic) with*
-*75 levels in the vertical.*
-	- *“Demonstrate that using a dynamically coupled ocean and sea ice model in the European Centre for Medium- Range Weather Forecasts (ECMWF) Integrated Forecasting System results in improved sea ice edge position forecasts in the Northern Hemisphere in the medium range. Further, this improves forecasts of boundary layer temperature and humidity downstream of the sea ice edge in some regions during periods of rapid change in the sea ice, compared to forecasts in which the sea surface temperature anomalies and sea ice concentration do not evolve throughout the forecasts. “*
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Ren et al (2021)</strong>- A fully coupled Arctic sea-ice–ocean–atmosphere model (ArcIOAM v1.0) based on C-Coupler2: model description**
+**and preliminary results <i>(Click to read more)</i>.</summary>
 
-* **Smith et al 2018 Impact of Coupling with an Ice–Ocean Model on Global Medium-Range NWP Forecast Skill**
-https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-17-0157.1.xml
-NEMO-CICE coupled to GEM for atm.
-EVP 25km resolution.
-* 
-* **Yang et al 2016: Taking into Account Atmospheric Uncertainty Improves Sequential Assimilation of SMOS Sea Ice Thickness Data in an Ice–Ocean Model**  https://journals.ametsoc.org/view/journals/atot/33/3/jtech-d-15-0176_1.xml
-*The goal is Data assimilation (of sea ice obs). MITgcm with VP rheology. Forced by ensemble atmospheric forecast.*
+* _Polar WRF coupled to MITGCM (VP rheology) at 18km._
+* Goal: provide reliable Arctic sea ice prediction on SEASONAL timescales.  Compare a MITGCM forced config with a coupled config with Polar WRF. “The two-way coupling has better performance in terms of sea ice extent, concen- tration, thickness and sea surface temperature (SST), especially in summer. This result indicates that sea-ice–ocean– atmosphere interaction plays a crucial role in controlling Arctic summertime sea ice distribution. 
+* https://doi.org/10.5194/gmd-14-1101-2021
+</details>
 
-* **Horvat 2016 Interaction of sea ice floe size, ocean eddies, and sea ice melting** https://doi.org/10.1002/2016GL069742
-MITgcm ocean-ice
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Day et al (2022)</strong>- Day et all Benefits and challenges of dynamic sea ice for weather forecasts <i>(Click to read more)</i>.</summary>
 
-* **2004 Pellerin et al Impact of a Two-Way Coupling between an Atmospheric and an Ocean-Ice Model over the Gulf of St. Lawrence**
-https://doi.org/10.1175/1520-0493(2004)132<1379:IOATCB>2.0.CO;2 
-*Abstract: The purpose of this study is to present the impacts of a fully interactive coupling between an atmospheric and a sea ice model over the Gulf of St. Lawrence, Canada. The impacts are assessed in terms of the atmospheric and sea ice forecasts produced by the coupled numerical system. The ocean-ice model has been developed at the Maurice Lamontagne Institute, where it runs operationally at a horizontal resolution of 5 km and is driven (one-way coupling) by atmospheric model forecasts provided by the Meteorological Service of Canada (MSC). In this paper the importance of two-way coupling is assessed by comparing the one-way coupled version with a two-way coupled version in which the atmospheric model interacts with the sea ice model during the simulation. The impacts are examined for a case in which the sea ice conditions are changing rapidly. Two atmospheric model configurations have been studied. The first one has a horizontal grid spacing of 24 km, which is the operational configuration used at the Canadian Meteorological Centre. The second one is a high-resolution configuration with a **4-km horizontal grid spacing**. A 48-h forecast has been validated using satellite images for the ice and the clouds, and also using the air temperature and precipitation observations. It is shown that the two-way coupled system improves the atmospheric forecast and has a **direct impact on the sea ice forecast.** It is also found that forecasts are improved with a fine resolution that better resolves the physical events, fluxes, and forcing. The coupling technique is also briefly described and discussed.*
+* https://wcd.copernicus.org/articles/3/713/2022/
+* _ECMWF IFS atmospheric forecast experiments. one in which dynamic coupling with sea ice concentration and ocean is switched on
+(coup-SSTSIC), one atmosphere-only where sea ice concentration and SST anomalies are persisted from the initial time(pers-SSTSIC), and another atmosphere-only with updated observed sea ice concentration and SSTs (obs-SSTSIC)._
+* _For the coupled forecasts (coup-SSTSIC), the IFS atmosphere is coupled to NEMO (Madec, 2008) model version 3.4.1 and LIM2, using the ORCA025 horizontal grid (with a resolution of approximately ∼ 10 km in the Arctic) with 75 levels in the vertical._
+* _Demonstrate that using a dynamically coupled ocean and sea ice model in the European Centre for Medium- Range Weather Forecasts (ECMWF) Integrated Forecasting System results in improved sea ice edge position forecasts in the Northern Hemisphere in the medium range. Further, this improves forecasts of boundary layer temperature and humidity downstream of the sea ice edge in some regions during periods of rapid change in the sea ice, compared to forecasts in which the sea surface temperature anomalies and sea ice concentration do not evolve throughout the forecasts._
 
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Smith et al (2018)</strong>- Impact of Coupling with an Ice–Ocean Model on Global Medium-Range NWP Forecast Skill <i>(Click to read more)</i>.</summary>
+
+* _NEMO-CICE coupled to GEM for atm. EVP 25km resolution._
+* https://journals.ametsoc.org/view/journals/mwre/146/4/mwr-d-17-0157.1.xml
+</details>
+
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Yang et al (2016)</strong>- Taking into Account Atmospheric Uncertainty Improves Sequential Assimilation of SMOS Sea Ice Thickness Data in an Ice–Ocean Model <i>(Click to read more)</i>.</summary>
+
+* _The goal is Data assimilation (of sea ice obs)._ 
+* _MITgcm with VP rheology._
+* _Forced by ensemble atmospheric forecast._
+* https://journals.ametsoc.org/view/journals/atot/33/3/jtech-d-15-0176_1.xml
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Horvat et al (2016)</strong>- Interaction of sea ice floe size, ocean eddies, and sea ice melting <i>(Click to read more)</i>.</summary>
+
+* _MITgcm ocean-ice_
+* https://doi.org/10.1002/2016GL069742
+
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Pellerin et al (2014)</strong>- Impact of a Two-Way Coupling between an Atmospheric and an Ocean-Ice Model over the Gulf of St. Lawrence. <i>(Click to read more)</i>.</summary>
+
+* https://doi.org/10.1175/1520-0493(2004)132<1379:IOATCB>2.0.CO;2
+* _Abstract: The purpose of this study is to present the impacts of a fully interactive coupling between an atmospheric and a sea ice model over the Gulf of St. Lawrence, Canada. The impacts are assessed in terms of the atmospheric and sea ice forecasts produced by the coupled numerical system. The ocean-ice model has been developed at the Maurice Lamontagne Institute, where it runs operationally at a horizontal resolution of 5 km and is driven (one-way coupling) by atmospheric model forecasts provided by the Meteorological Service of Canada (MSC). In this paper the importance of two-way coupling is assessed by comparing the one-way coupled version with a two-way coupled version in which the atmospheric model interacts with the sea ice model during the simulation. The impacts are examined for a case in which the sea ice conditions are changing rapidly. Two atmospheric model configurations have been studied. The first one has a horizontal grid spacing of 24 km, which is the operational configuration used at the Canadian Meteorological Centre. The second one is a high-resolution configuration with a **4-km horizontal grid spacing**. A 48-h forecast has been validated using satellite images for the ice and the clouds, and also using the air temperature and precipitation observations. It is shown that the two-way coupled system improves the atmospheric forecast and has a **direct impact on the sea ice forecast.** It is also found that forecasts are improved with a fine resolution that better resolves the physical events, fluxes, and forcing. The coupling technique is also briefly described and discussed._
+</details>
 
 ---
 # 3. Observations of the Arctic ABL
