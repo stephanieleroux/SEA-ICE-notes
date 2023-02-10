@@ -199,7 +199,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 
 
 ---
-# 4. Impact of atmospheric boundary conditions on sea-ice models
+## 4. Impact of atmospheric boundary conditions on sea-ice models
 
  <!-- -------------- Paper ------------------ -->
 <details>
@@ -211,6 +211,6 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 
 
 ---
-# 5. Sea ice model coupled to simple  ABL
+# 5. Impact of simple ABL model coupled to sea ice model
 
-Nothing! ?
+* Nothing i could find yet!
