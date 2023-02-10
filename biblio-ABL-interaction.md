@@ -1,14 +1,16 @@
-Last update: 2023-02-08
 
----
 # Bibliography
 
-List of references about sea ice - Atmospheric Boundary Layer coupling. I sorted out the references in the 5 categories below:
+Last update: 2023-02-08
+
+List of references about sea ice - Atmospheric Boundary Layer coupling. 
+
+I sorted out the references in the 5 categories below:
 
 
-## 1. Atmospheric models (often LES) with prescribed sea ice boundary conditions. 
+## 1. Impact of prescribed sea ice boundary conditions on the ABL in atmospheric models (often LES). 
 
-The focus of these studies is on the response of the ABL to various sea ice boundary conditions (nothing i could find about the feedback effects on sea ice).
+The focus of these studies is on the response of the ABL to various sea ice boundary conditions (but nothing i could find about the feedback effects on sea ice).
 
 <!-- -------------- Paper ------------------ -->
 <details>
@@ -108,7 +110,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 
 
 ---
-## 2. Coupled systems (seaice-ocean-atmoshpere)
+## 2. Sea-ice - ABL interactions in fully coupled systems (sea-ice-ocean-atmoshpere)
 
 <!-- -------------- Paper ------------------ -->
 <details>
@@ -169,7 +171,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 </details>
 
 ---
-# 3. Observations of the Arctic ABL
+## 3. Observations of the Arctic ABL
   
  <!-- -------------- Paper ------------------ -->
 <details>
@@ -197,7 +199,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 
 
 ---
-# 4. Impact of atmospheric boundary conditions on sea ice model
+# 4. Impact of atmospheric boundary conditions on sea-ice models
 
  <!-- -------------- Paper ------------------ -->
 <details>
