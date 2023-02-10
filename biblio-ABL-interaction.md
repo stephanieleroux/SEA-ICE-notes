@@ -78,21 +78,16 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 * https://doi.org/10.1029/2008JD010300
 </details>
 
+
 <!-- -------------- Paper ------------------ -->
 <details>
-<summary><strong>Renfrew et al (2019)</strong>- Title <i>(Click to read more)</i>.</summary>
+<summary><strong>Moeng et al (2007)</strong>- xamining Two-Way Grid Nesting for Large Eddy Simulation of the PBL Using the WRF Model <i>(Click to read more)</i>.</summary>
 
-* _comment_
-* link
+* _Two-way nesting for large eddy simulation (LES) of PBL turbulence_
+* _A pair of LES-within-LES experiments are performed where a finer-grid LES covering a smaller horizontal domain is nested inside a coarser-grid LES covering a larger horizontal domain. Free-convection and pure shear-driven PBLs. The free-convection case has zero mean wind and the only driving force for turbulence is uniform surface heating._
+* https://journals.ametsoc.org/view/journals/mwre/135/6/mwr3406.1.xml
 </details>
 
-
-
-
-* **Moeng et al 2007   Examining Two-Way Grid Nesting for Large Eddy Simulation of the PBL Using the WRF Model**
-https://journals.ametsoc.org/view/journals/mwre/135/6/mwr3406.1.xml
-*Two-way nesting for large eddy simulation (LES) of PBL turbulence I*
-*A pair of LES-within-LES experiments are performed where a finer-grid LES covering a smaller horizontal domain is nested inside a coarser-grid LES covering a larger horizontal domain. Free-convection and pure shear-driven PBLs. The free-convection case has zero mean wind and the only driving force for turbulence is uniform surface heating.*
 
 <!-- -------------- Paper ------------------ -->
 <details>
@@ -175,23 +170,45 @@ https://journals.ametsoc.org/view/journals/mwre/135/6/mwr3406.1.xml
 
 ---
 # 3. Observations of the Arctic ABL
-* **Overland et al 1999 Regional sensible and radiative heat flux estimates for the winter Arctic during the Surface Heat Budget of the Arctic Ocean (SHEBA) experiment**
-https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JC000010
-SHEBA campaign
+  
+ <!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Overland et al (1999)</strong>- Regional sensible and radiative heat flux estimates for the winter Arctic during the Surface Heat Budget of the Arctic Ocean (SHEBA) experiment <i>(Click to read more)</i>.</summary>
 
-* **2012 Lupkes et al:  A parametrization, based on sea ice morphology, of the neutral atmospheric drag coefficients for weather prediction and climate models**
-*A hierarchy of parametrizations of the neutral 10 m drag coefficients over polar sea ice with different morphology regimes is derived on the basis of a partitioning concept that splits the total surface drag into contributions of skin drag and form drag.*
+* _SHEBA campaign_
+* [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JC000010)
+</details>
+  
+ <!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Lupkes et al (2012)</strong>- A parametrization, based on sea ice morphology, of the neutral atmospheric drag coefficients for weather prediction and climate models <i>(Click to read more)</i>.</summary>
 
-* **2009 Andreas et al. Parameterizing Turbulent Exchange over Sea Ice in Winter**. *Based on SHEBA campaign data. This paper develops a bulk turbulent flux algorithm to explain the winter data.*
+* _A hierarchy of parametrizations of the neutral 10 m drag coefficients over polar sea ice with different morphology regimes is derived on the basis of a partitioning concept that splits the total surface drag into contributions of skin drag and form drag._
+* link
+</details>
 
+ <!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Andreas et al (2009)</strong>- Parameterizing Turbulent Exchange over Sea Ice in Winter**. *Based on SHEBA campaign data. This paper develops a bulk turbulent flux algorithm to explain the winter data. <i>(Click to read more)</i>.</summary>
+
+* _comment_
+* link
+</details>
 
 
 ---
 # 4. Sea ice models forced with atmospheric boundary conditions
-* Heorton et 2014 **The Response of the Sea Ice Edge to Atmospheric and Oceanic Jet Formation** https://doi.org/10.1175/JPO-D-13-0184.1
-CICE model forced by idealised atmospheric forcing.
+
+ <!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Heorton et al (2014)</strong>- The Response of the Sea Ice Edge to Atmospheric and Oceanic Jet Formation <i>(Click to read more)</i>.</summary>
+
+* _CICE model forced by idealised atmospheric forcing._
+* https://doi.org/10.1175/JPO-D-13-0184.1
+</details>
 
 
 ---
 # 5. Sea ice model coupled to simple  ABL
+
 Nothing! ?
