@@ -109,7 +109,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 </details>
 
 
----
+
 ## 2. Sea-ice - ABL interactions in fully coupled systems (sea-ice-ocean-atmoshpere)
 
 <!-- -------------- Paper ------------------ -->
@@ -170,7 +170,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 * _Abstract: The purpose of this study is to present the impacts of a fully interactive coupling between an atmospheric and a sea ice model over the Gulf of St. Lawrence, Canada. The impacts are assessed in terms of the atmospheric and sea ice forecasts produced by the coupled numerical system. The ocean-ice model has been developed at the Maurice Lamontagne Institute, where it runs operationally at a horizontal resolution of 5 km and is driven (one-way coupling) by atmospheric model forecasts provided by the Meteorological Service of Canada (MSC). In this paper the importance of two-way coupling is assessed by comparing the one-way coupled version with a two-way coupled version in which the atmospheric model interacts with the sea ice model during the simulation. The impacts are examined for a case in which the sea ice conditions are changing rapidly. Two atmospheric model configurations have been studied. The first one has a horizontal grid spacing of 24 km, which is the operational configuration used at the Canadian Meteorological Centre. The second one is a high-resolution configuration with a **4-km horizontal grid spacing**. A 48-h forecast has been validated using satellite images for the ice and the clouds, and also using the air temperature and precipitation observations. It is shown that the two-way coupled system improves the atmospheric forecast and has a **direct impact on the sea ice forecast.** It is also found that forecasts are improved with a fine resolution that better resolves the physical events, fluxes, and forcing. The coupling technique is also briefly described and discussed._
 </details>
 
----
+  
 ## 3. Observations of the Arctic ABL
   
  <!-- -------------- Paper ------------------ -->
@@ -198,7 +198,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 </details>
 
 
----
+
 ## 4. Impact of atmospheric boundary conditions on sea-ice models
 
  <!-- -------------- Paper ------------------ -->
@@ -210,7 +210,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 </details>
 
 
----
-# 5. Impact of simple ABL model coupled to sea ice model
+
+## 5. Impact of simple ABL model coupled to sea ice model
 
 * Nothing i could find yet!
