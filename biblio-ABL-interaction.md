@@ -10,53 +10,82 @@ List of references about sea ice - Atmospheric Boundary Layer coupling. I sorted
 
 The focus of these studies is on the response of the ABL to various sea ice boundary conditions (nothing i could find about the feedback effects on sea ice).
 
+<!-- -------------- Paper ------------------ -->
 <details>
 <summary><strong>Michaelis, Lupkes et al (2022).</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. <i>(Click to read more)</i>.</summary>
 
-* METRAS atmos. model.
+* _METRAS atmos. model._
 * https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953
 </details>
 
+<!-- -------------- Paper ------------------ -->
 <details>
-<summary><strong>Wenta, M., & Herman, A. (2018).</strong>- The influence of the spatial distribution of leads and ice floes on the atmospheric boundary layer over fragmented sea ice. <it>(Click to read more)</it>.</summary>
+<summary><strong>Wenta, M., & Herman, A. (2018).</strong>- The influence of the spatial distribution of leads and ice floes on the atmospheric boundary layer over fragmented sea ice. <i>(Click to read more)</i>.</summary>
 
-* Investigate the response of the atmospheric boundary layer (ABL) to subgrid-scale variations of sea ice properties and fracturing analyze three-dimensional air circulation within the ABL over fragmented sea ice. A series of idealized high-resolution simulations with Polar WRF is performed for several spatial distributions of ice floes and leads for two values of sea ice concentration (0.5 and 0.9) and several ambient wind speed profiles. Suggests the need for developing suitable parametrizations of ABL effects related to subgrid scale sea ice features for these models.
+* _Investigate the response of the atmospheric boundary layer (ABL) to subgrid-scale variations of sea ice properties and fracturing analyze three-dimensional air circulation within the ABL over fragmented sea ice. A series of idealized high-resolution simulations with Polar WRF is performed for several spatial distributions of ice floes and leads for two values of sea ice concentration (0.5 and 0.9) and several ambient wind speed profiles. Suggests the need for developing suitable parametrizations of ABL effects related to subgrid scale sea ice features for these models._
 * https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4961E8E20BC30618A7849378985EA7FA/S0260305518000150a.pdf/
 </details>
 
+<!-- -------------- Paper ------------------ -->
 <details>
 <summary><strong> Spall M. (2019).</strong>- Dynamics and Thermodynamics of the Mean Transpolar Drift and Ice Thickness in the Arctic Ocean. <i>(Click to read more)</i>.</summary>
-	
-<DIV>
 
-* A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed. Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere. The basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space.
-* Analytical work compared to an idealised MITgcm simulation (EVP rheology) forced with bulks.
+*_ A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed. Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere. The basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space._
+* _Analytical work compared to an idealised MITgcm simulation (EVP rheology) forced with bulks.__
 * https://doi.org/10.1175/JCLI-D-19-0252.1
-
-<DIV>
-	
 </details>
 
+<!-- -------------- Paper ------------------ -->
 <details>
 <summary><strong>Renfrew et al (2019).</strong>- Atmospheric sensitivity to marginal-ice-zone drag: Local and global responses. <i>(Click to read more)</i>.</summary>
 
-    * MetUM atmospheric mode and prescribed surface conditions. Surface drag and Form drag.
-    * https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3486 
+* _MetUM atmospheric mode and prescribed surface conditions. Surface drag and Form drag._
+* https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3486 
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Tetzlaff et al (2016)</strong>- Convective processes in the polar atmospheric boundary layer: a study based on measurements and modelling. <i>(Click to read more)</i>.</summary>
+
+* PhD. thesis, Alfred-Wegener-Institut Helmholtz-Zentrum fümlr Polar- und Meeresforschung), p. 136. 
+* https://media.suub.uni-bremen.de/handle/elib/992 
+* _Goal of this thesis lies on improving our current understanding of convective processes and the related turbulent fluxes in the polar atmospheric boundary layer (ABL) over both the sea ice covered regions and over the open ocean at the sea ice edge. Obs (aircraft)-based results are supplemented by modeling studies using a simple boxmodel and a one-dimensional mesoscale model. For this purpose, we use a 1D version of the MEsoscale TRAnsport and Stream model (METRAS, Schlünzen, 1988), which is non-hydrostatic and anelastic. The applied parametrisations are a mixing length
+closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity mass-flux closure (EDMF)._
 </details>
 
 
-* **Tetzlaff A (2016) Convective processes in the polar atmospheric boundary layer: a study based on measurements and modelling.** (PhD. thesis, Alfred-Wegener-Institut Helmholtz-Zentrum fümlr Polar- und Meeresforschung), p. 136. 
-*The https://media.suub.uni-bremen.de/handle/elib/992 of this thesis lies on improving our current understanding of convective processes and the related turbulent fluxes in the polar atmospheric boundary layer (ABL) over both the sea ice covered regions and over the open ocean at the sea ice edge. Obs (aircraft)-based results are supplemented by modeling studies using a simple boxmodel and a one-dimensional mesoscale model. For this purpose, we use a 1D version of the MEsoscale TRAnsport and Stream model (METRAS, Schlünzen, 1988), which is non-hydrostatic and anelastic. The applied parametrisations are a mixing length
-closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity mass-flux closure
-(EDMF),*
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Pithan  et al (2016)</strong>- Select strengths and biases of models in representing the Arctic winter boundary layer over sea ice: the Larcform 1 single column model intercomparison <i>(Click to read more)</i>.</summary>
 
-* **Pithan et al 2016. Select strengths and biases of models in representing the Arctic winter boundary layer over sea ice: the Larcform 1 single column model intercomparison**
-  https://doi.org/10.1002/2016MS000630
-ABL 1D single column in Lagrangian form. Prescribed sea ice conditions.
+*_ ABL 1D single column in Lagrangian form. Prescribed sea ice conditions._
+* [link](https://doi.org/10.1002/2016MS000630)
+</details>
 
-* **Sea & Yang 2013 Dynamical response of the Arctic atmospheric boundary layer process to uncertainties in sea-ice concentration**
-https://doi.org/10.1002/2013JD020312
-Polar WRF and prescribed sea ice conditions
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Sea & Yang (2013)</strong>- Dynamical response of the Arctic atmospheric boundary layer process to uncertainties in sea-ice concentration <i>(Click to read more)</i>.</summary>
+
+* https://doi.org/10.1002/2013JD020312
+* _Polar WRF and prescribed sea ice conditions._
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Renfrew et al (2019)</strong>- Title <i>(Click to read more)</i>.</summary>
+
+* _comment_
+* link
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Renfrew et al (2019)</strong>- Title <i>(Click to read more)</i>.</summary>
+
+* _comment_
+* link
+</details>
+
 
 * **Bromwich 2009 Development and testing of Polar Weather Research and Forecasting model: 2. Arctic Ocean** https://doi.org/10.1029/2008JD010300
 Polar WRF: 25-km resolution
