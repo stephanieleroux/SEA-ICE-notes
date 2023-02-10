@@ -12,43 +12,23 @@ List of references about sea ice - Atmospheric Boundary Layer coupling. I sorted
 
 The focus of these studies is on the response of the ABL to various sea ice boundary conditions (nothing i could find about the feedback effects on sea ice).
 
-some text
-+ <details>
-    <summary>Heading1.1</summary>
 
-    some more text
-    + <details>
-        <summary>Heading1.1.1</summary>
-        even more text
-      </details>
-   </details>
-</details>
-
+#---------------------
 * <details>
-<summary><strong>Michaelis, Lupkes et al 2022.</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations.</summary>
+<summary><strong>Michaelis, Lupkes et al (2022).</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. <it>(Click to read more)</it>.</summary>
 
-    some more text
-    * Essai 1
-    * Essai 2
+    * METRAS atmos. model.
+    * https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953
 </details>
 
+#---------------------
+* <details>
+<summary><strong>Wenta, M., & Herman, A. (2018).</strong>- The influence of the spatial distribution of leads and ice floes on the atmospheric boundary layer over fragmented sea ice. <it>(Click to read more)</it>.</summary>
 
-  
-* **Michaelis, Lupkes et al 2022** - Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. [[Link to Paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953).
-<details>
-  <summary>More (...)</summary>
-	 
+    * Investigate the response of the atmospheric boundary layer (ABL) to subgrid-scale variations of sea ice properties and fracturing analyze three-dimensional air circulation within the ABL over fragmented sea ice. A series of idealized high-resolution simulations with Polar WRF is performed for several spatial distributions of ice floes and leads for two values of sea ice concentration (0.5 and 0.9) and several ambient wind speed profiles. Suggests the need for developing suitable parametrizations of ABL effects related to subgrid scale sea ice features for these models.
+    * https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4961E8E20BC30618A7849378985EA7FA/S0260305518000150a.pdf/
 </details>
-	  
 
-* **Wenta, M., & Herman, A. (2018).**
-<details>
-  <summary><strong>The influence of the spatial distribution of leads and ice floes on the atmospheric boundary layer over fragmented sea ice.</strong></summary>
-*  https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4961E8E20BC30618A7849378985EA7FA/S0260305518000150a.pdf/
-* Investigate the response of the atmospheric boundary layer (ABL) to subgrid-scale variations of sea ice properties and fracturing analyze three-dimensional air circulation within the ABL over fragmented sea ice. A series of idealized high-resolution simulations with Polar WRF is performed for several spatial distributions of ice floes and leads for two values of sea ice concentration (0.5 and 0.9) and several ambient wind speed profiles. Suggests the need for developing suitable parametrizations of ABL effects related to subgrid scale sea ice features for these models.
-[image:11AD9B6B-7A99-4FA1-AADC-95464B492E16-601-00001F4D196CF5DC/Screenshot 2023-02-08 at 12.14.20.png]
-  
-</details>
 
 * **2019 Spall M. : Dynamics and Thermodynamics of the Mean Transpolar Drift and Ice Thickness in the Arctic Ocean**.  https://doi.org/10.1175/JCLI-D-19-0252.1
 *A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed.* *Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere.*  T*he basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space.* 
