@@ -12,7 +12,7 @@ List of references about sea ice - Atmospheric Boundary Layer coupling. I sorted
 
 The focus of these studies is on the response of the ABL to various sea ice boundary conditions (nothing i could find about the feedback effects on sea ice).
 
-* <details>
+<details>
 <summary><strong>Michaelis, Lupkes et al (2022).</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. <it>(Click to read more)</it>.</summary>
 
     * METRAS atmos. model.
