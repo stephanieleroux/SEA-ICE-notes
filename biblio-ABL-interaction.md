@@ -26,13 +26,15 @@ The focus of these studies is on the response of the ABL to various sea ice boun
 
 <details>
 <summary><strong> Spall M. (2019).</strong>- Dynamics and Thermodynamics of the Mean Transpolar Drift and Ice Thickness in the Arctic Ocean. <i>(Click to read more)</i>.</summary>
-<div>
+	
+<DIV>
 
     * A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed. Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere. The basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space.
     * Analytical work compared to an idealised MITgcm simulation (EVP rheology) forced with bulks.
     * https://doi.org/10.1175/JCLI-D-19-0252.1
 
-<div>
+<DIV>
+	
 </details>
 
 <details>
