@@ -1,19 +1,17 @@
 Last update: 2023-02-08
 
 ---
-**Bibliography**
+# Bibliography
 
 List of references about sea ice - Atmospheric Boundary Layer coupling. I sorted out the references in the 5 categories below:
 
-
----
 
 ## 1. Atmospheric models (often LES) with prescribed sea ice boundary conditions. 
 
 The focus of these studies is on the response of the ABL to various sea ice boundary conditions (nothing i could find about the feedback effects on sea ice).
 
 <details>
-<summary><strong>Michaelis, Lupkes et al (2022).</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. <it>(Click to read more)</it>.</summary>
+<summary><strong>Michaelis, Lupkes et al (2022).</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. <i>(Click to read more)</i>.</summary>
 
     * METRAS atmos. model.
     * https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3953
@@ -26,13 +24,21 @@ The focus of these studies is on the response of the ABL to various sea ice boun
     * https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4961E8E20BC30618A7849378985EA7FA/S0260305518000150a.pdf/
 </details>
 
+<details>
+<summary><strong> Spall M. (2019).</strong>- Dynamics and Thermodynamics of the Mean Transpolar Drift and Ice Thickness in the Arctic Ocean. <i>(Click to read more)</i>.</summary>
 
-* **2019 Spall M. : Dynamics and Thermodynamics of the Mean Transpolar Drift and Ice Thickness in the Arctic Ocean**.  https://doi.org/10.1175/JCLI-D-19-0252.1
-*A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed.* *Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere.*  T*he basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space.* 
-*Analytical work compared to an idealised MITgcm simulation (EVP rheology) forced with bulks.*
+    * A theory for the mean ice thickness and the Transpolar Drift in the Arctic Ocean is developed. Two distinct regimes: a thin ice regime in the eastern Arctic and a thick ice regime in the western Arctic. In the eastern Arctic, the ice drift is controlled by a balance between wind and ocean drag, while the ice thickness is controlled by heat loss to the atmosphere. In contrast, in the western Arctic, the ice thickness is determined by a balance between wind and internal ice stress, while the drift is indirectly controlled by heat loss to the atmosphere. The basic predictions for ice thickness, heat loss, ice volume, and ice export from the theory compare well with an idealized, coupled ocean–ice numerical model over a wide range of parameter space.
+    * Analytical work compared to an idealised MITgcm simulation (EVP rheology) forced with bulks.
+    * https://doi.org/10.1175/JCLI-D-19-0252.1
+</details>
 
-* **Renfrew 2019 Atmospheric sensitivity to marginal-ice-zone drag: Local and global responses** https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3486 
-*MetUM atmospheric mode and prescribed surface conditions. Surface drag and Form drag.* 
+<details>
+<summary><strong>Renfrew et al (2019).</strong>- Atmospheric sensitivity to marginal-ice-zone drag: Local and global responses. <i>(Click to read more)</i>.</summary>
+
+    * MetUM atmospheric mode and prescribed surface conditions. Surface drag and Form drag.
+    * https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3486 
+</details>
+
 
 * **Tetzlaff A (2016) Convective processes in the polar atmospheric boundary layer: a study based on measurements and modelling.** (PhD. thesis, Alfred-Wegener-Institut Helmholtz-Zentrum fümlr Polar- und Meeresforschung), p. 136. 
 *The https://media.suub.uni-bremen.de/handle/elib/992 of this thesis lies on improving our current understanding of convective processes and the related turbulent fluxes in the polar atmospheric boundary layer (ABL) over both the sea ice covered regions and over the open ocean at the sea ice edge. Obs (aircraft)-based results are supplemented by modeling studies using a simple boxmodel and a one-dimensional mesoscale model. For this purpose, we use a 1D version of the MEsoscale TRAnsport and Stream model (METRAS, Schlünzen, 1988), which is non-hydrostatic and anelastic. The applied parametrisations are a mixing length
