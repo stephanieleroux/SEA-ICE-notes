@@ -1,7 +1,7 @@
 
 # Bibliography
 
-Last update: 2023-02-10
+Last update: 2023-02-21
 
 A (non-exhaustive) list of references about sea ice - Atmospheric Boundary Layer coupling. 
 
@@ -172,6 +172,15 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 
   
 ## 3. Observations of the Arctic ABL
+  
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Mchedlishvili et al (2023)</strong>- New estimates of the pan-Arctic sea ice–atmosphere neutral drag
+coefficients from ICESat-2 elevation data <i>(Click to read more)</i>.</summary>
+
+* [link]([https://doi.org/10.5194/egusphere-2023-187)
+</details>
+  
   
  <!-- -------------- Paper ------------------ -->
 <details>
