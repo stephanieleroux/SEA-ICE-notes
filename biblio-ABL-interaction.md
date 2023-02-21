@@ -178,7 +178,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 <summary><strong>Mchedlishvili et al (2023)</strong>- New estimates of the pan-Arctic sea ice–atmosphere neutral drag
 coefficients from ICESat-2 elevation data <i>(Click to read more)</i>.</summary>
 
-* [link]([https://doi.org/10.5194/egusphere-2023-187)
+* [link](https://doi.org/10.5194/egusphere-2023-187)
 </details>
   
   
