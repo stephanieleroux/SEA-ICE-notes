@@ -1,7 +1,7 @@
 
 # Bibliography
 
-Last update: 2023-02-21
+Last update: 2023-04-06
 
 A (non-exhaustive) list of references about sea ice - Atmospheric Boundary Layer coupling. 
 
@@ -222,4 +222,10 @@ coefficients from ICESat-2 elevation data <i>(Click to read more)</i>.</summary>
 
 ## 5. Impact of simple ABL model coupled to sea ice model
 
-* Nothing i could find yet!
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Lemarié et al (2021)</strong>- A simplified atmospheric boundary layer model for an improved representation of air–sea interactions in eddying oceanic models: implementation and first evaluation in NEMO (4.0) <i>(Click to read more)</i>.</summary>
+
+* _Description of the ABL 1D model. Not focused specifically on sea ice though._
+* https://doi.org/10.5194/gmd-14-543-2021
+</details>
