@@ -14,6 +14,15 @@ The focus of these studies is on the response of the ABL to various sea ice boun
 
 <!-- -------------- Paper ------------------ -->
 <details>
+<summary><strong> Lorenz T. et al (2021).</strong>- The stable atmospheric boundary layer over snow-covered sea ice: Model evaluation with fine-scale
+ISOBAR18 observations. <i>(Click to read more)</i>.</summary>
+
+* WRF with one-way nesting and different ABL schemes.
+* https://doi.org/10.1175/JCLI-D-19-0252.1
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
 <summary><strong>Michaelis, Lupkes et al (2022).</strong>- Modelling and parametrization of the convective flow over leads in sea ice and comparison with airborne observations. <i>(Click to read more)</i>.</summary>
 
 * _METRAS atmos. model._
