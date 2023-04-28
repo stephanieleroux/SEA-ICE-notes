@@ -238,3 +238,32 @@ coefficients from ICESat-2 elevation data <i>(Click to read more)</i>.</summary>
 * _Description of the ABL 1D model. Not focused specifically on sea ice though._
 * https://doi.org/10.5194/gmd-14-543-2021
 </details>
+  
+  
+ 
+## 6. Some ABL models
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Lemarié et al (2021)</strong>- A simplified atmospheric boundary layer model for an improved representation of air–sea interactions in eddying oceanic models: implementation and first evaluation in NEMO (4.0) <i>(Click to read more)</i>.</summary>
+
+* _Description of the ABL 1D model. _
+* https://doi.org/10.5194/gmd-14-543-2021
+</details>
+  
+ <!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Davy et al (2009)</strong>- A model of dust in the Martian lower atmosphere <i>(Click to read more)</i>.</summary>
+
+* _Description of the ABL 1D model from Richard Davy at NERSC. Focused on martian atmosphere and dust_
+* https://doi.org/10.1029/2008JD010481
+* There is also the full thesis for more details: https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR54020.PDF?is_thesis=1
+</details>
+  
+ <!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Deremble et al (2013)</strong>- CheapAML: A Simple, Atmospheric Boundary Layer Model for Use in Ocean-Only Model Calculations <i>(Click to read more)</i>.</summary>
+
+* _Description of the CheapAML model from Bruno et al_
+* https://doi.org/10.1175/MWR-D-11-00254.1
+</details>
