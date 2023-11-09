@@ -14,6 +14,23 @@ The focus of these studies is on the response of the ABL to various sea ice boun
 
 <!-- -------------- Paper ------------------ -->
 <details>
+<summary><strong> Spensberger, C.; Spengler, T. (2021).</strong>- Sensitivity of Air-Sea Heat Exchange in Cold-Air Outbreaks to Model Resolution and Sea-Ice Distribution. <i>(Click to read more)</i>.</summary>
+
+* Polar WRF.
+* Journal of Geophysical Research (JGR): Atmospheres. 13 pages.
+*  https://doi.org/10.1029/2020JD033610
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong> SI Watanabe, H. Niino, T. Spengler (2022).</strong>- Formation of maritime convergence zones within cold air outbreaks due to the shape of the coastline or sea ice edge. <i>(Click to read more)</i>.</summary>
+
+* Japanese non-hydrostatic model.
+* https://doi.org/10.1002/qj.4324
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
 <summary><strong> Lorenz T. et al (2021).</strong>- The stable atmospheric boundary layer over snow-covered sea ice: Model evaluation with fine-scale
 ISOBAR18 observations. <i>(Click to read more)</i>.</summary>
 
