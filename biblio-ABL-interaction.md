@@ -109,7 +109,7 @@ closure (ML), a counter-gradient closure (CG), and a so-called eddy-diffusivity 
 
 <!-- -------------- Paper ------------------ -->
 <details>
-<summary><strong>Moeng et al (2007)</strong>- xamining Two-Way Grid Nesting for Large Eddy Simulation of the PBL Using the WRF Model <i>(Click to read more)</i>.</summary>
+<summary><strong>Moeng et al (2007)</strong>- Examining Two-Way Grid Nesting for Large Eddy Simulation of the PBL Using the WRF Model <i>(Click to read more)</i>.</summary>
 
 * _Two-way nesting for large eddy simulation (LES) of PBL turbulence_
 * _A pair of LES-within-LES experiments are performed where a finer-grid LES covering a smaller horizontal domain is nested inside a coarser-grid LES covering a larger horizontal domain. Free-convection and pure shear-driven PBLs. The free-convection case has zero mean wind and the only driving force for turbulence is uniform surface heating._
