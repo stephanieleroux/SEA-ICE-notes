@@ -315,3 +315,19 @@ global responses  <i>(Click to read more)</i>.</summary>
 
 *  https://doi.org/10.1175/JPO-D-13-0215.1
 </details>
+
+## 8. Inertial oscillations seen in sea ice
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Gimbert et al (2012)</strong>- Recent mechanical weakening of the Arctic sea ice cover as revealed from larger inertial oscillations  <i>(Click to read more)</i>.</summary>
+
+*   https://doi.org/10.1029/2011JC007633
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Gimbert et al (2012)</strong>- Sea ice inertial oscillations in the Arctic Basin   <i>(Click to read more)</i>.</summary>
+
+*   https://doi.org/10.5194/tc-6-1187-2012
+</details>
