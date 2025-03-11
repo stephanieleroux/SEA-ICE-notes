@@ -284,3 +284,20 @@ coefficients from ICESat-2 elevation data <i>(Click to read more)</i>.</summary>
 * _Description of the CheapAML model from Bruno et al_
 * https://doi.org/10.1175/MWR-D-11-00254.1
 </details>
+
+## 7. About drag coefficient
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Lupkes et al (2012)</strong>- A parametrization, based on sea ice morphology, of the neutral atmospheric drag coefficients for weather prediction and climate models  <i>(Click to read more)</i>.</summary>
+
+*  https://doi.org/10.1029/2012JD017630
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Renfrew et al (2018)</strong>- Atmospheric sensitivity to marginal-ice-zone drag: Local and
+global responses  <i>(Click to read more)</i>.</summary>
+
+*  https://doi.org/10.1002/qj.3486
+</details>
