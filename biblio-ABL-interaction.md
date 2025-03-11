@@ -301,3 +301,17 @@ global responses  <i>(Click to read more)</i>.</summary>
 
 *  https://doi.org/10.1002/qj.3486
 </details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Heorton et al (2018)</strong>- Retrieving Sea Ice Drag Coefficients and Turning Angles From In Situ and Satellite Observations Using an Inverse Modeling Framework  <i>(Click to read more)</i>.</summary>
+
+*  https://doi.org/10.1029/2018JC014881
+</details>
+
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Tsamados et al (2014)</strong>- Impact of Variable Atmospheric and Oceanic Form Drag on Simulations of Arctic Sea Ice   <i>(Click to read more)</i>.</summary>
+
+*  https://doi.org/10.1175/JPO-D-13-0215.1
+</details>
