@@ -331,3 +331,12 @@ global responses  <i>(Click to read more)</i>.</summary>
 
 *   https://doi.org/10.5194/tc-6-1187-2012
 </details>
+
+
+## 9. Inertial oscillations in the ABL
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Lundquist et al (2003)</strong>- Intermittent and Elliptical Inertial Oscillations in the Atmospheric Boundary Layer.  <i>(Click to read more)</i>.</summary>
+
+* [Intermittent and Elliptical Inertial Oscillations in the Atmospheric Boundary Layer](https://doi.org/10.1175/1520-0469(2003)060%3C2661:IAEIOI%3E2.0.CO;2)
+</details>
