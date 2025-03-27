@@ -5,7 +5,7 @@ Last update: 2025-03-20
 
 A (non-exhaustive) list of references about sea ice - Atmospheric Boundary Layer coupling. 
 
-I sorted out the references in the 6 categories below:
+I sorted out the references in different categories - see below:
 
 
 ## 1. Impact of prescribed sea ice boundary conditions on the ABL in atmospheric models (often LES). 
