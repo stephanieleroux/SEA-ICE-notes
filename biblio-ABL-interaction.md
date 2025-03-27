@@ -1,7 +1,7 @@
 
 # Bibliography
 
-Last update: 2023-11-09
+Last update: 2025-03-20
 
 A (non-exhaustive) list of references about sea ice - Atmospheric Boundary Layer coupling. 
 
