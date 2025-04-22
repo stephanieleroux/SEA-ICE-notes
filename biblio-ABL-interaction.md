@@ -316,6 +316,14 @@ global responses  <i>(Click to read more)</i>.</summary>
 *  https://doi.org/10.1175/JPO-D-13-0215.1
 </details>
 
+<!-- -------------- Paper ------------------ -->
+<details>
+<summary><strong>Mchedlishvili et al (2023)</strong>- New estimates of the pan-Arctic sea ice–atmosphere neutral drag
+coefficients from ICESat-2 elevation data <i>(Click to read more)</i>.</summary>
+
+* [link](https://doi.org/10.5194/egusphere-2023-187)
+</details>
+
 ## 8. Inertial oscillations seen in sea ice
 
 <!-- -------------- Paper ------------------ -->
